@@ -38,29 +38,9 @@ Actionable Deliverables: Produce a filtered list of high-risk products for opera
 
 
 
-
-
 #### 🛠️ Technology Stack
 
---------------------------------------------------------------------------------------------------------------------------------------
-
-| Category             | Tools / Libraries                  | Purpose                                                                |
-
-|---                   |---                                 |          ---                                                           |
-
-| Data Processing \& ML | Python (Pandas, NumPy)             | Data cleaning, merging transactional records, and feature engineering. |
-
-| Machine Learning     | Scikit-learn (Logistic Regression) | Building and evaluating the predictive return model.                   |
-
-| Analysis \& Reporting | Power BI                           | Creating an interactive, drill-through 
-
-&nbsp;					                      dashboard for business insights and risk visualization.                |
-
-| Version Control      | Git / GitHub                       | Project tracking and collaborative development.                        |
-
---------------------------------------------------------------------------------------------------------------------------------------
-
-
+<img width="797" height="135" alt="image" src="https://github.com/user-attachments/assets/922dff5e-abc8-4956-b44e-fea38d475ecf" />
 
 
 
