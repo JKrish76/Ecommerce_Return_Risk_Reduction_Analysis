@@ -1,0 +1,15 @@
+# .gitignore
+
+# Python compilation files
+__pycache__/
+*.pyc
+*.egg-info/
+
+# Data files you don't want to track
+*.csv
+*.xlsx
+df_master_day1.csv
+high_risk_products_for_intervention.csv
+
+# Local path configuration (ESSENTIAL SECURITY STEP)
+path_config.py
